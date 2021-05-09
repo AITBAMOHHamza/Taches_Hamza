@@ -1,0 +1,20 @@
+.tout {
+  position: absolute;
+  right: 90%;
+  left: 0;
+}
+.rouge {
+  color: rgb(155, 71, 71);
+  background-color: rgb(155, 71, 71);
+  border: solid 3px rgb(37, 37, 63);
+}
+.jaune {
+  color: rgb(199, 182, 84);
+  background-color: rgb(199, 182, 84);
+  border: solid 3px rgb(37, 37, 63);
+}
+.bleu {
+  color: rgb(69, 69, 151);
+  background-color: rgb(69, 69, 151);
+  border: solid 3px rgb(37, 37, 63);
+}

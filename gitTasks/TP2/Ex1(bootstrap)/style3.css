@@ -1,0 +1,18 @@
+.rouge {
+  color: rgb(155, 71, 71);
+  background-color: rgb(155, 71, 71);
+  border: solid 3px rgb(37, 37, 63);
+  height: 300px;
+}
+.jaune {
+  color: rgb(199, 182, 84);
+  background-color: rgb(199, 182, 84);
+  border: solid 3px rgb(37, 37, 63);
+  height: 300px;
+}
+.bleu {
+  color: rgb(69, 69, 151);
+  background-color: rgb(69, 69, 151);
+  border: solid 3px rgb(37, 37, 63);
+  height: 300px;
+}

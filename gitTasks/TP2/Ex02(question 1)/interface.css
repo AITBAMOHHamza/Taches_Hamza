@@ -1,0 +1,84 @@
+.entete {
+  background-color: rgb(61, 61, 107);
+  color: white;
+  border: solid 2px #1c1c30;
+  text-align: center;
+  margin: 4px;
+  height: 80px;
+}
+.sec0 {
+  background-color: rgb(172, 158, 81);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+}
+.sec1 {
+  background-color: rgb(98, 138, 141);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+  width: 24%;
+  height: 150px;
+  float: left;
+}
+.sec2 {
+  background-color: rgb(219, 120, 95);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+  width: 24%;
+  height: 150px;
+  float: left;
+}
+.sec3 {
+  background-color: rgb(116, 173, 116);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+  width: 24%;
+  height: 150px;
+  float: left;
+}
+.sec4 {
+  background-color: rgb(247, 185, 114);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+  width: 24%;
+  height: 150px;
+  float: left;
+}
+.sec5 {
+  background-color: rgb(112, 181, 228);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+  height: 150px;
+  width: 49%;
+  clear: left;
+  float: left;
+}
+.sec6 {
+  background-color: rgb(89, 131, 160);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+  height: 150px;
+  width: 49%;
+  float: left;
+}
+.pied {
+  background-color: rgb(129, 104, 141);
+  color: white;
+  border: solid 2px rgb(28, 28, 48);
+  text-align: center;
+  margin: 4px;
+  clear: left;
+}
